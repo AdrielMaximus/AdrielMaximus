@@ -34,9 +34,11 @@
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
  </div>
+ 
  <div style="display: inline-block">
     <img src=" https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
  </div>
+ 
  # Projetos
  
 <a href="https://adrielmaximus.github.io/Site-Cordel/">Site Cordel</a> <br>
